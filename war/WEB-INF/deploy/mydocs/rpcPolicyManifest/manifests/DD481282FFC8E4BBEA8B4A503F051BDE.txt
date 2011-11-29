@@ -1,0 +1,2 @@
+serviceClass: com.google.gwt.mydocs.client.MyDocsService
+path: B73DD3609729D952AD70B36922DAE9E2.gwt.rpc
